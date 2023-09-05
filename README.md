@@ -7,4 +7,4 @@
 https://vkhuy.github.io/GPABookmarklet
 ````
 
-This repo is a fork from **[this repo](https://github.com/dtrung98/GPABookmarklet). After using dtrung98 's repo, I realize it mustn't include ``Tin học cơ sở``, then I solve that problem with my repo.
+This repo is a fork from **[this repo](https://github.com/dtrung98/GPABookmarklet)**. After using dtrung98 's repo, I realize it mustn't include ``Tin học cơ sở``, then I solve that problem with my repo.
